@@ -4,23 +4,23 @@
   
     
     <entry>
-      <title>file_name</title>
+      <title>今日校园信息收集</title>
       <link href="2021/02/20/file_name/"/>
       <url>2021/02/20/file_name/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr><p>title: Hexo的建设及踩坑<br>top_img: <a href="http://up.36992.com/pic/e6/c5/51/e6c551e768092c8655292d89a4034a74.jpg">http://up.36992.com/pic/e6/c5/51/e6c551e768092c8655292d89a4034a74.jpg</a><br>cover: <a href="http://up.36992.com/pic/e6/c5/51/e6c551e768092c8655292d89a4034a74.jpg">http://up.36992.com/pic/e6/c5/51/e6c551e768092c8655292d89a4034a74.jpg</a></p><hr>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr><blockquote><p>前言：今日校园自动打卡是子墨大佬弄的，此方法只是用来方便</p></blockquote><hr>]]></content>
       
       
       <categories>
           
-          <category> 分类 </category>
+          <category> 打卡 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签名 </tag>
+            <tag> 打卡 </tag>
             
         </tags>
       
